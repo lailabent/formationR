@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# ignorer les fichiers individu_reg quelle que soit l'extension
+individu_reg.*
